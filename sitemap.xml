@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ogel-tak.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ogel-tak.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://ogel-tak.github.io/mywebsite/old-sports-cars-are-us.html</loc>
+<lastmod>2024-09-10T09:05:14+02:00</lastmod>
+<image:image>
+<image:loc>https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1952-Hudson-Hornet-Fabulous-Hudson-Hornet-NASCAR-Racer-4.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1956Ferrari250GT-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/14-ferrari-410-superamerica-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1956-Mercury-Monterey-Cropped.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1959-Cadillac-Eldorado-Biarritz-Cropped.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/4b646d96d0605979dee30f44a700cd6b-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

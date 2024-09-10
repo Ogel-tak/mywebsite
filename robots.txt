@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ogel-tak.github.io/mywebsite/sitemap.xml

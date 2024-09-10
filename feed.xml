@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Old-car-lover</title>
+    <link href="https://ogel-tak.github.io/mywebsite/feed.xml" rel="self" />
+    <link href="https://ogel-tak.github.io/mywebsite" />
+    <updated>2024-09-10T09:05:14+02:00</updated>
+    <author>
+        <name>Ogel-Tak</name>
+    </author>
+    <id>https://ogel-tak.github.io/mywebsite</id>
+
+    <entry>
+        <title>Old sports cars are us</title>
+        <author>
+            <name>Ogel-Tak</name>
+        </author>
+        <link href="https://ogel-tak.github.io/mywebsite/old-sports-cars-are-us.html"/>
+        <id>https://ogel-tak.github.io/mywebsite/old-sports-cars-are-us.html</id>
+
+        <updated>2024-09-03T08:54:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    About us : We've got American, Japanese, German, French, Italian, Russian and even British automobiles THE CLASSICS : 1950s The Legends : 1970s-1990s Ferrari 308 : 1988
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="text-decoration: underline;"><strong>About us</strong></span> : </p>
+<p>We've got American, Japanese, German, French, Italian, Russian and even British automobiles</p>
+<p><em><strong>THE CLASSICS : 1950s</strong></em></p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1952-Hudson-Hornet-Fabulous-Hudson-Hornet-NASCAR-Racer-4.avif" data-size="x"><img loading="lazy" src="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1952-Hudson-Hornet-Fabulous-Hudson-Hornet-NASCAR-Racer-4.avif" alt=""></a>
+<figcaption>The Fabulous Hudson Hornet : 1952</figcaption>
+</figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1956Ferrari250GT.jpg" data-size="1000x563"><img loading="lazy" src="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1956Ferrari250GT-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Ferrari 250 GT Catalog : 1956</figcaption>
+</figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/14-ferrari-410-superamerica.webp" data-size="900x441"><img loading="lazy" src="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/14-ferrari-410-superamerica-thumbnail.webp" alt="" width="720" height="353"></a>
+<figcaption>Ferrari 250GT swb : 1955</figcaption>
+</figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1956-Mercury-Monterey-Cropped.avif" data-size="x"><img loading="lazy" src="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1956-Mercury-Monterey-Cropped.avif" alt=""></a>
+<figcaption>Mercury Montery : 1956</figcaption>
+</figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1959-Cadillac-Eldorado-Biarritz-Cropped.avif" data-size="x"><img loading="lazy" src="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/1959-Cadillac-Eldorado-Biarritz-Cropped.avif" alt=""></a>
+<figcaption>Cadillac Eldorado Biarritz : 1959</figcaption>
+</figure>
+</div></div>
+<p><em><strong>The Legends : 1970s-1990s</strong></em></p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="6">
+<figure class="gallery__item"><a href="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/4b646d96d0605979dee30f44a700cd6b.webp" data-size="1315x740"><img loading="lazy" src="https://ogel-tak.github.io/mywebsite/media/posts/1/gallery/4b646d96d0605979dee30f44a700cd6b-thumbnail.webp" alt="" width="720" height="405"></a>
+<figcaption>Ferrari 308 : 1988</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
